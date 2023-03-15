@@ -1,0 +1,11 @@
+pkgid: contravariant-1.5.5
+component: ComponentLib
+src: 062fd66580d7aad0b5ba93e644ffa7feee69276ef50f20d4ed9f1deb7642dffa
+pkg-config-deps: 
+deps: StateVar-1.2.2-72ea4dd6ad21cffce72b1541c4ffcb909991ddf4cabce283446595712981c9d2, base-4.14.3.0, transformers-0.5.6.2
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +semigroups +statevar +tagged
+shared-lib: True
+stripped-exe: False
+debug-info: 0

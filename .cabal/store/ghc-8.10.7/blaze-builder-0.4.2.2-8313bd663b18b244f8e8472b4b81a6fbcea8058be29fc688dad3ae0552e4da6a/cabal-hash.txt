@@ -1,0 +1,10 @@
+pkgid: blaze-builder-0.4.2.2
+component: ComponentLib
+src: 2cdc998c021d3a5f2a66a95138b93386271c26a117e7676d78264a90e536af67
+pkg-config-deps: 
+deps: base-4.14.3.0, bytestring-0.10.12.0, deepseq-1.4.4.0, ghc-prim-0.6.1, text-1.2.4.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

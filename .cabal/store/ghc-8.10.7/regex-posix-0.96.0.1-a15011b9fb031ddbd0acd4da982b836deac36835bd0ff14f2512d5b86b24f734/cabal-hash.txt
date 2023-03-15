@@ -1,0 +1,11 @@
+pkgid: regex-posix-0.96.0.1
+component: ComponentLib
+src: c7827c391919227711e1cff0a762b1678fd8739f9c902fc183041ff34f59259c
+pkg-config-deps: 
+deps: array-0.5.4.0, base-4.14.3.0, bytestring-0.10.12.0, containers-0.6.5.1, regex-base-0.94.0.2-85b27aba5c4c8c05a3e5d9719e49e080d06e9e8e205800e5b62856a178a3ea9f
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -_regex-posix-clib
+shared-lib: True
+stripped-exe: False
+debug-info: 0

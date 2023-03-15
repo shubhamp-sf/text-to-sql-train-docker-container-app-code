@@ -1,0 +1,10 @@
+pkgid: data-lens-light-0.1.2.3
+component: ComponentLib
+src: b471174cbf0c9301e63d1abbe5720c1b9a6bf716dbd0cb13c4250c1b5f5d9ff5
+pkg-config-deps: 
+deps: base-4.14.3.0, mtl-2.2.2, template-haskell-2.16.0.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

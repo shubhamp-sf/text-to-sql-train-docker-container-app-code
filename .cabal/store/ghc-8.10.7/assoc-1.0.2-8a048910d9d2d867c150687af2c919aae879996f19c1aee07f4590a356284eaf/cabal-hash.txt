@@ -1,0 +1,10 @@
+pkgid: assoc-1.0.2
+component: ComponentLib
+src: d8988dc6e8718c7a3456515b769c9336aeeec730cf86fc5175247969ff8f144f
+pkg-config-deps: 
+deps: base-4.14.3.0, bifunctors-5.5.11-2d26f458718c1d11fb8e2ee0a8bdd670b9e353ca50ccf288e3f090429780f6fd, tagged-0.8.6.1-2eea1558b46bda8b2e8ad3636e69c3043df0ac87651423c57c39822bf07aaea7
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

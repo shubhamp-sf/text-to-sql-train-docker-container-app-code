@@ -1,0 +1,11 @@
+pkgid: unordered-containers-0.2.17.0
+component: ComponentLib
+src: c49e3a6e0b6aae68c035b163e54f3521d1d65d0a3543fa46eaeddc97b4375a17
+pkg-config-deps: 
+deps: base-4.14.3.0, deepseq-1.4.4.0, hashable-1.3.5.0-38ac512a8fca7331205e4a466b18225a1140d2f7309381fd440283069fc8b154, template-haskell-2.16.0.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -debug
+shared-lib: True
+stripped-exe: False
+debug-info: 0

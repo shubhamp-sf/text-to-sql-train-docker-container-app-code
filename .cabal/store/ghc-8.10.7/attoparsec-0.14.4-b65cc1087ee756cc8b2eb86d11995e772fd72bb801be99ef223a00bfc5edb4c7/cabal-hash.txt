@@ -1,0 +1,11 @@
+pkgid: attoparsec-0.14.4
+component: ComponentLib
+src: 3f337fe58624565de12426f607c23e60c7b09c86b4e3adfc827ca188c9979e6c
+pkg-config-deps: 
+deps: array-0.5.4.0, attoparsec-0.14.4-l-attoparsec-internal-493be6238a55027008e3e6ae85bec846d85540101279384db990d1c303527c53, base-4.14.3.0, bytestring-0.10.12.0, containers-0.6.5.1, deepseq-1.4.4.0, ghc-prim-0.6.1, scientific-0.3.7.0-87746086abbcba0c91aa13f229e4f5fbf4b549e7e1d8cdb554550ae9662ba874, text-1.2.4.1, transformers-0.5.6.2
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -developer
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,10 @@
+pkgid: random-1.2.1
+component: ComponentLib
+src: 265c768fc5f2ca53cde6a87e706b4448cad474c3deece933c103f24453661457
+pkg-config-deps: 
+deps: base-4.14.3.0, bytestring-0.10.12.0, deepseq-1.4.4.0, mtl-2.2.2, splitmix-0.1.0.4-ecf05af7ba88b161057dd38db998065e9449310e23cbacac97d6a6e83c32b8d5
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

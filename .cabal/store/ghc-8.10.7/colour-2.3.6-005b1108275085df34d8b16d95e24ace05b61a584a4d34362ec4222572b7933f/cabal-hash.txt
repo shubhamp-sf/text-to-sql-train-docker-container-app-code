@@ -1,0 +1,10 @@
+pkgid: colour-2.3.6
+component: ComponentLib
+src: 2cd35dcd6944a5abc9f108a5eb5ee564b6b1fa98a9ec79cefcc20b588991f871
+pkg-config-deps: 
+deps: base-4.14.3.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

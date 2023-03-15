@@ -1,0 +1,10 @@
+pkgid: lifted-base-0.2.3.12
+component: ComponentLib
+src: c134a95f56750aae806e38957bb03c59627cda16034af9e00a02b699474317c5
+pkg-config-deps: 
+deps: base-4.14.3.0, monad-control-1.0.3.1-e87bb31e0dcd10a7eeed7b9ea7ec3c01567986b668557458ef2331a57feb36e9, transformers-base-0.4.6-6da51771d90eb1bcec5abcb7cc7cbe92d83c85b679d229862f200b216175bb4b
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

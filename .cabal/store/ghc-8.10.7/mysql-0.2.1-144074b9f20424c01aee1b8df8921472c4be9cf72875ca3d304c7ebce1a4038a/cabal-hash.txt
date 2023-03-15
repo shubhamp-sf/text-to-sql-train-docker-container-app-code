@@ -1,0 +1,10 @@
+pkgid: mysql-0.2.1
+src: 6fd0099a6ea7a096e868ba7fb5be20dd4d7b2566aa89a20ce871f5ac90203c14
+pkg-config-deps: 
+deps: Cabal-3.2.1.0, base-4.14.3.0, bytestring-0.10.12.0, containers-0.6.5.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -developer
+shared-lib: True
+stripped-exe: False
+debug-info: 0

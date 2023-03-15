@@ -1,0 +1,10 @@
+pkgid: base16-bytestring-0.1.1.7
+component: ComponentLib
+src: 525689679d5cc80fa532c1d5cfeace0f62bbb54134fad514f1ba00d0e7fe69ba
+pkg-config-deps: 
+deps: base-4.14.3.0, bytestring-0.10.12.0, ghc-prim-0.6.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

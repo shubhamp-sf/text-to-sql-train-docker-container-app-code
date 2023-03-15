@@ -1,0 +1,10 @@
+pkgid: base64-bytestring-1.2.1.0
+component: ComponentLib
+src: fbf8ed30edde271eb605352021431d8f1b055f95a56af31fe2eacf6bdfdc49c9
+pkg-config-deps: 
+deps: base-4.14.3.0, bytestring-0.10.12.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

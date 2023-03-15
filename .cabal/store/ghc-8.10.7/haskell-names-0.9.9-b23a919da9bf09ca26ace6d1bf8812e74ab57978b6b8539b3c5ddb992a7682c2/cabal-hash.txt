@@ -1,0 +1,10 @@
+pkgid: haskell-names-0.9.9
+component: ComponentLib
+src: 151e9925f437b85a87e3131582ee804c05741e08c679610433e4b1ff213f103f
+pkg-config-deps: 
+deps: aeson-1.5.6.0-bf641485d3d43a798daeb787020e5e6ebd375ea770e0980a55bab5ad4b5e066d, base-4.14.3.0, bytestring-0.10.12.0, containers-0.6.5.1, data-lens-light-0.1.2.3-53c89a669366f6f731441d01e7c299660f18c430acd50c0c2858bc43b7ee7bc7, filepath-1.4.2.1, haskell-src-exts-1.23.1-65eee2ddfaebbd1121addc65c06b522ee52c8b8a8bf3615d41aa70f22d39fafd, mtl-2.2.2, transformers-0.5.6.2, traverse-with-class-1.0.1.1-1a73419558bff9ee18274d6d36e7d9d7e2392a67721f617328404ea56de68d63, uniplate-1.6.13-ede2e4cbee3cba43d2eb9e189d5109f762168fe0295701723d66ca93e2098abe
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

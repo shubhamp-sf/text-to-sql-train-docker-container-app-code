@@ -1,0 +1,10 @@
+pkgid: uuid-types-1.0.5
+component: ComponentLib
+src: ad68b89b7a64c07dd5c250a11be2033ee929318ff51ec7b4e4b54e1b4deba7dd
+pkg-config-deps: 
+deps: base-4.14.3.0, binary-0.8.8.0, bytestring-0.10.12.0, deepseq-1.4.4.0, hashable-1.3.5.0-38ac512a8fca7331205e4a466b18225a1140d2f7309381fd440283069fc8b154, random-1.2.1-9241b7d4b7bedafddc08af1f75ab0cf10f6509e30a6ca9372df2a6af5d56c821, template-haskell-2.16.0.0, text-1.2.4.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

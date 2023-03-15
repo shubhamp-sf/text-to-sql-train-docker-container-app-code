@@ -1,0 +1,10 @@
+pkgid: base-compat-batteries-0.12.1
+component: ComponentLib
+src: f98f3cdd8231edb4826744904d61f7672b9b628c7072c45684d3f7f1f55d838b
+pkg-config-deps: 
+deps: OneTuple-0.3.1-1a9e755796e71f8796e0e462212bbf02391464933d83c05f203ca10bccb43f33, base-4.14.3.0, base-compat-0.12.1-be8cdb908bae84190576797b552c332a060eb3efaf7de0377909a3db17be5836, ghc-prim-0.6.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

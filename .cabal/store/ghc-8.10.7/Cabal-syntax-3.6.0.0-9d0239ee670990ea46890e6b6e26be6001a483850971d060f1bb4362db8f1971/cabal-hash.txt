@@ -1,0 +1,10 @@
+pkgid: Cabal-syntax-3.6.0.0
+component: ComponentLib
+src: ca25e5fc601397565fa857f1aa477740fac7f43d659e77c4d9b1485dca239251
+pkg-config-deps: 
+deps: Cabal-3.6.0.0-55596ce9fb82ab11605abd7bc4b980503e4c7612271dcb759893faa61442c7da
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

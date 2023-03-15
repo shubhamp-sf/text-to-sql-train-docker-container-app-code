@@ -1,0 +1,10 @@
+pkgid: kan-extensions-5.2.3
+component: ComponentLib
+src: b4f6fed2a7c011a86345b876688ebc8d38d23e372a37a8452b82882918ef72e6
+pkg-config-deps: 
+deps: adjunctions-4.4-0a03c48492bf99b23f2f3d176700e19f9ae3c55bba7b7cdada62e22afd989195, array-0.5.4.0, base-4.14.3.0, comonad-5.0.8-2a7fa53397c686ac1860a5e382d726324dfd8538a2a95134e6167215836f5970, containers-0.6.5.1, contravariant-1.5.5-db83032095a68ebc42d39746dd4e19e4f6e37c7873237a6584c0b6157e6b8461, distributive-0.6.2.1-d1ba776802281b54a72e0c6d43389d1599e577e9cb3422483af6a691ec80da14, free-5.1.7-bf666075047bc4b38503dbc05ce454492f5c72c8f3f9c4db58932683564237b3, invariant-0.5.5-179629d9e1643f64abdb231767706a22df3e98d5d56a5c98d5f5ed3493d2687a, mtl-2.2.2, profunctors-5.6.2-c31b913d0476333a9fde0fab0c8e1b7c40f039de042028e77d7b4ef35efaaaa3, semigroupoids-5.3.7-a1a090ffa457f3fca01a381a444812a5cad28cb26b13386f2925a31cdedaf58f, tagged-0.8.6.1-2eea1558b46bda8b2e8ad3636e69c3043df0ac87651423c57c39822bf07aaea7, transformers-0.5.6.2, transformers-compat-0.7.1-ca45d466718214d71f167e7f61b2c3944d59bf161473172b8c705c11dcdfbb58
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

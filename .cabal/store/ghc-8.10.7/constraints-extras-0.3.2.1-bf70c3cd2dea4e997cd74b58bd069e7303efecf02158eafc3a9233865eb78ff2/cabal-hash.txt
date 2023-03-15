@@ -1,0 +1,11 @@
+pkgid: constraints-extras-0.3.2.1
+component: ComponentLib
+src: d7f571c6634105e8fbb5ad6685775c7d06e84cd4ece51dfd4276e2fe34e65c70
+pkg-config-deps: 
+deps: base-4.14.3.0, constraints-0.13.3-1c48cc79193a80e1fdd89c4e32c13a242bfe8b11a13ff0d107bc92a3ceca4a96, template-haskell-2.16.0.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +build-readme
+shared-lib: True
+stripped-exe: False
+debug-info: 0

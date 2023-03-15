@@ -1,0 +1,9 @@
+pkgid: resolv-0.1.2.0
+src: 81a2bafad484db123cf8d17a02d98bb388a127fd0f822fa022589468a0e64671
+pkg-config-deps: 
+deps: base-4.14.3.0, base16-bytestring-0.1.1.7-a01f199b7800eef0fbf4f5cb45485ddc3997acf7c62cfa71ab1dd96a7eaa3583, binary-0.8.8.0, bytestring-0.10.12.0, containers-0.6.5.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,10 @@
+pkgid: type-equality-1
+component: ComponentLib
+src: 4728b502a211454ef682a10d7a3e817c22d06ba509df114bb267ef9d43a08ce8
+pkg-config-deps: 
+deps: base-4.14.3.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

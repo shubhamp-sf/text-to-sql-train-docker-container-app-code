@@ -1,0 +1,11 @@
+pkgid: these-1.1.1.1
+component: ComponentLib
+src: d798c9f56e17def441e8f51e54cc11afdb3e76c6a9d1e9ee154e9a78da0bf508
+pkg-config-deps: 
+deps: assoc-1.0.2-8a048910d9d2d867c150687af2c919aae879996f19c1aee07f4590a356284eaf, base-4.14.3.0, binary-0.8.8.0, deepseq-1.4.4.0, hashable-1.3.5.0-38ac512a8fca7331205e4a466b18225a1140d2f7309381fd440283069fc8b154
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +assoc
+shared-lib: True
+stripped-exe: False
+debug-info: 0

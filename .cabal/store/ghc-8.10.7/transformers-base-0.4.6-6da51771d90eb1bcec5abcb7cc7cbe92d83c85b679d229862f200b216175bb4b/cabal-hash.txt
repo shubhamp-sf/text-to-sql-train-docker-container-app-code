@@ -1,0 +1,11 @@
+pkgid: transformers-base-0.4.6
+component: ComponentLib
+src: 323bf8689eb691b122661cffa41a25e00fea7a768433fe2dde35d3da7d32cf90
+pkg-config-deps: 
+deps: base-4.14.3.0, base-orphans-0.8.6-fbd06cc0f1e87751970cf003b25e5b10dcf4c218931f51ed808354965075c26c, stm-2.5.0.1, transformers-0.5.6.2, transformers-compat-0.7.1-ca45d466718214d71f167e7f61b2c3944d59bf161473172b8c705c11dcdfbb58
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +orphaninstances
+shared-lib: True
+stripped-exe: False
+debug-info: 0

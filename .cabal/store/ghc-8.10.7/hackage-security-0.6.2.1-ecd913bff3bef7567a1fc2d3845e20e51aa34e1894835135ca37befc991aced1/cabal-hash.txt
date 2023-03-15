@@ -1,0 +1,11 @@
+pkgid: hackage-security-0.6.2.1
+component: ComponentLib
+src: bf22cd16dde7d6b7130463f4d7324b64a2964d9ef3f523df97d7cb98544d64a8
+pkg-config-deps: 
+deps: Cabal-3.6.0.0-55596ce9fb82ab11605abd7bc4b980503e4c7612271dcb759893faa61442c7da, Cabal-syntax-3.6.0.0-9d0239ee670990ea46890e6b6e26be6001a483850971d060f1bb4362db8f1971, base-4.14.3.0, base16-bytestring-0.1.1.7-a01f199b7800eef0fbf4f5cb45485ddc3997acf7c62cfa71ab1dd96a7eaa3583, base64-bytestring-1.2.1.0-3545a003991d706deff106a156708d03bce06cbc505ffc2e134f4db41d4ee516, bytestring-0.10.12.0, containers-0.6.5.1, cryptohash-sha256-0.11.102.1-b7a551372a693f86d20a41b71c855fc42fda023dffe9c298ae27a04d47c48de8, directory-1.3.6.0, ed25519-0.0.5.0-4ae151eea836514248981a8a7fe1e1cf84de2cc9b054f6d836ce1317368af85e, filepath-1.4.2.1, ghc-prim-0.6.1, lukko-0.1.1.3-195fd1edcb01903fdb8723aaf4d8e621608926c56eb1d3987e143cb0f61c3c65, mtl-2.2.2, network-3.1.2.7-2d72df787370b1f16d6201e748b2276c2e80f11c5a492979e113b32cf6851dd5, network-uri-2.6.4.1-83ef2aa9e12d97ddc73af743c315b887e7060efd79836112c6521d8d9d36b32f, parsec-3.1.14.0, pretty-1.1.3.6, tar-0.5.1.1-13b72cfc0dd17a5610bf310d94e58bf563420a9714095f04e966cb92173d2b24, template-haskell-2.16.0.0, time-1.9.3, transformers-0.5.6.2, zlib-0.6.2.3-def443548e978facc1ac2e0de278eca4693b87b4f14d6e73f4b00178d6270d82
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +base48 -cabal-syntax +lukko -mtl21 -old-directory +use-network-uri
+shared-lib: True
+stripped-exe: False
+debug-info: 0

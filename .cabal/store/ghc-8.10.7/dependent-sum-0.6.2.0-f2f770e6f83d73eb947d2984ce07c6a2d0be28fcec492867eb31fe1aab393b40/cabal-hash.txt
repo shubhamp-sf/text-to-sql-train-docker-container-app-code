@@ -1,0 +1,9 @@
+pkgid: dependent-sum-0.6.2.0
+src: 4da09dfbeb62eb73cc43102de872803dc3fc4a9d8216f149300e2e9c5d2db29f
+pkg-config-deps: 
+deps: base-4.14.3.0, constraints-extras-0.3.2.1-bf70c3cd2dea4e997cd74b58bd069e7303efecf02158eafc3a9233865eb78ff2
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

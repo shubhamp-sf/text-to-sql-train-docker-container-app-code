@@ -1,0 +1,11 @@
+pkgid: HTTP-4000.3.16
+component: ComponentLib
+src: d6091c037871ac3d08d021c906206174567499d5a26a6cb804cf530cd590fe2d
+pkg-config-deps: 
+deps: array-0.5.4.0, base-4.14.3.0, bytestring-0.10.12.0, mtl-2.2.2, network-3.1.2.7-2d72df787370b1f16d6201e748b2276c2e80f11c5a492979e113b32cf6851dd5, network-uri-2.6.4.1-83ef2aa9e12d97ddc73af743c315b887e7060efd79836112c6521d8d9d36b32f, parsec-3.1.14.0, time-1.9.3
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -conduit10 -mtl1 +network-uri -warn-as-error -warp-tests
+shared-lib: True
+stripped-exe: False
+debug-info: 0

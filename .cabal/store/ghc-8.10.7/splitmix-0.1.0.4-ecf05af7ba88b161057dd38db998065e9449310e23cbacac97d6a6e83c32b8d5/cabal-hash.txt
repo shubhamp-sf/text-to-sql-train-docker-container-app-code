@@ -1,0 +1,11 @@
+pkgid: splitmix-0.1.0.4
+component: ComponentLib
+src: 6d065402394e7a9117093dbb4530a21342c9b1e2ec509516c8a8d0ffed98ecaa
+pkg-config-deps: 
+deps: base-4.14.3.0, deepseq-1.4.4.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -optimised-mixer
+shared-lib: True
+stripped-exe: False
+debug-info: 0

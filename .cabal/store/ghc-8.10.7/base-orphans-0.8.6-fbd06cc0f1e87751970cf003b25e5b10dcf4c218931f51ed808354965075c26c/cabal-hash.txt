@@ -1,0 +1,10 @@
+pkgid: base-orphans-0.8.6
+component: ComponentLib
+src: 20a21c4b7adb0fd844b25e196241467406a28286b021f9b7a082ab03fa8015eb
+pkg-config-deps: 
+deps: base-4.14.3.0, ghc-prim-0.6.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

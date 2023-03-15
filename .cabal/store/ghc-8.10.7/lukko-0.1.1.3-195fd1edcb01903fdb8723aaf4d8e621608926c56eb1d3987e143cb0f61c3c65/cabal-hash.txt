@@ -1,0 +1,11 @@
+pkgid: lukko-0.1.1.3
+component: ComponentLib
+src: a80efb60cfa3dae18682c01980d76d5f7e413e191cd186992e1bf7388d48ab1f
+pkg-config-deps: 
+deps: base-4.14.3.0, hsc2hs-0.68.8-e-hsc2hs-d18ce01474ef463552864ad1bba448558b2bdd3f8c058d7ed1ebcc62c9423db9
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +ofd-locking
+shared-lib: True
+stripped-exe: False
+debug-info: 0

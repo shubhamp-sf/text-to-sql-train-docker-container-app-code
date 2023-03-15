@@ -1,0 +1,10 @@
+pkgid: mangle-0.1.0.0
+component: ComponentLib
+src: 86d03523333d7ead9d9247ca5eaec307d03e8a985549ab501d7f56c58cc067e7
+pkg-config-deps: 
+deps: base-4.14.3.0, containers-0.6.5.1, parsec-3.1.14.0, template-haskell-2.16.0.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,10 @@
+pkgid: primitive-0.7.3.0
+component: ComponentLib
+src: 3c0cfda67f1ee6f7f65108ad6f973b5bbb35ddba34b3c87746a7448f787501dc
+pkg-config-deps: 
+deps: base-4.14.3.0, deepseq-1.4.4.0, transformers-0.5.6.2
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

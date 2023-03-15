@@ -1,0 +1,11 @@
+pkgid: atomic-primops-0.8.4
+component: ComponentLib
+src: 22a8617eb9e221b5daee1ae26ccce279ce3d7a53d76e82c767708f90a6c72d3e
+pkg-config-deps: 
+deps: base-4.14.3.0, ghc-prim-0.6.1, primitive-0.7.3.0-ca993c0684c5b48074dd2590184c6f06667d73290dfde50301aed62da070af56
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -debug
+shared-lib: True
+stripped-exe: False
+debug-info: 0

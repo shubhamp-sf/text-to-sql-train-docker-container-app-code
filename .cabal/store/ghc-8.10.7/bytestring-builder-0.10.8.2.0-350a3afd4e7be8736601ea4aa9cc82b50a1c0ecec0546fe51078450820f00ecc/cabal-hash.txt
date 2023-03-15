@@ -1,0 +1,11 @@
+pkgid: bytestring-builder-0.10.8.2.0
+component: ComponentLib
+src: 27faef6db27c5be5a3715fd68b93725853e0e668849eaf92ce7c33cef9cb2c3f
+pkg-config-deps: 
+deps: base-4.14.3.0, bytestring-0.10.12.0, deepseq-1.4.4.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +bytestring_has_builder
+shared-lib: True
+stripped-exe: False
+debug-info: 0

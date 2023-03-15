@@ -1,0 +1,12 @@
+pkgid: cabal-install-3.6.0.0
+component: ComponentExe (UnqualComponentName "cabal")
+src: 56fc0178162937c9277cdc3ce1b05159a0e03209f4842609e36b61be899ab9b0
+pkg-config-deps: 
+deps: Cabal-3.6.0.0-55596ce9fb82ab11605abd7bc4b980503e4c7612271dcb759893faa61442c7da, HTTP-4000.3.16-9e81527472935e8dd33d388978208a63c2c663a192aef318739595e97485726d, array-0.5.4.0, async-2.2.4-38402ff980e55904b4ab722869d878d87179f57f62aa1941c5b99f6485d395dc, base-4.14.3.0, base16-bytestring-0.1.1.7-a01f199b7800eef0fbf4f5cb45485ddc3997acf7c62cfa71ab1dd96a7eaa3583, binary-0.8.8.0, bytestring-0.10.12.0, containers-0.6.5.1, cryptohash-sha256-0.11.102.1-b7a551372a693f86d20a41b71c855fc42fda023dffe9c298ae27a04d47c48de8, deepseq-1.4.4.0, directory-1.3.6.0, echo-0.1.4-7ee54070fd174539a296bbc77835204facc0491ba831396041bbe74e8939fe61, edit-distance-0.2.2.1-0a65876af340225be4724335ee6559c9d7dcb5adefe9439b0c720e0709f192e8, filepath-1.4.2.1, hackage-security-0.6.2.1-ecd913bff3bef7567a1fc2d3845e20e51aa34e1894835135ca37befc991aced1, hashable-1.3.5.0-38ac512a8fca7331205e4a466b18225a1140d2f7309381fd440283069fc8b154, lukko-0.1.1.3-195fd1edcb01903fdb8723aaf4d8e621608926c56eb1d3987e143cb0f61c3c65, mtl-2.2.2, network-uri-2.6.4.1-83ef2aa9e12d97ddc73af743c315b887e7060efd79836112c6521d8d9d36b32f, parsec-3.1.14.0, pretty-1.1.3.6, process-1.6.13.2, random-1.2.1-9241b7d4b7bedafddc08af1f75ab0cf10f6509e30a6ca9372df2a6af5d56c821, regex-base-0.94.0.2-85b27aba5c4c8c05a3e5d9719e49e080d06e9e8e205800e5b62856a178a3ea9f, regex-posix-0.96.0.1-a15011b9fb031ddbd0acd4da982b836deac36835bd0ff14f2512d5b86b24f734, resolv-0.1.2.0-53a4a24b7e27d56648b9a5e5dd76edec0ac3cfe05e92a22dcbdf7dfcd2abe037, stm-2.5.0.1, tar-0.5.1.1-13b72cfc0dd17a5610bf310d94e58bf563420a9714095f04e966cb92173d2b24, text-1.2.4.1, time-1.9.3, transformers-0.5.6.2, unix-2.7.2.2, zlib-0.6.2.3-def443548e978facc1ac2e0de278eca4693b87b4f14d6e73f4b00178d6270d82
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -debug-conflict-sets -debug-expensive-assertions -debug-tracetree +lukko +native-dns
+shared-lib: True
+stripped-exe: False
+debug-info: 0
+ghc-options: -fno-ignore-asserts

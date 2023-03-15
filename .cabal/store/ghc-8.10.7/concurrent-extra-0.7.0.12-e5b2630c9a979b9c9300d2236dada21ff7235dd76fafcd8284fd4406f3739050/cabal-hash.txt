@@ -1,0 +1,10 @@
+pkgid: concurrent-extra-0.7.0.12
+component: ComponentLib
+src: 040e6db9e0147de9929661759930f1566a7250add4c7f65b04dc6e070c991df9
+pkg-config-deps: 
+deps: base-4.14.3.0, stm-2.5.0.1, unbounded-delays-0.1.1.1-e543cc3e640d3873f838dea4898c78b71ff5c8fa399ebfb6597673d9bdf6395f
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

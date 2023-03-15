@@ -1,0 +1,11 @@
+pkgid: hsc2hs-0.68.8
+component: ComponentExe (UnqualComponentName "hsc2hs")
+src: 78341efbc917a84a07f2143bee9203e2555072054d495717aa73d89d9df77a52
+pkg-config-deps: 
+deps: base-4.14.3.0, containers-0.6.5.1, directory-1.3.6.0, filepath-1.4.2.1, process-1.6.13.2
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -in-ghc-tree
+shared-lib: True
+stripped-exe: False
+debug-info: 0

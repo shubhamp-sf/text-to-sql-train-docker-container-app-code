@@ -1,0 +1,11 @@
+pkgid: clock-0.8.3
+component: ComponentLib
+src: 845ce5db4c98cefd517323e005f87effceff886987305e421c4ef616dc0505d1
+pkg-config-deps: 
+deps: base-4.14.3.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -llvm
+shared-lib: True
+stripped-exe: False
+debug-info: 0

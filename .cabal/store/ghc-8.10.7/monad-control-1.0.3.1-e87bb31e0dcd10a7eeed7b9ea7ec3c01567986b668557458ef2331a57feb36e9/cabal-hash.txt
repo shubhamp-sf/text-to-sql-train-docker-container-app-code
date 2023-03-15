@@ -1,0 +1,10 @@
+pkgid: monad-control-1.0.3.1
+component: ComponentLib
+src: ae0baea04d99375ef788140367179994a7178d400a8ce0d9026846546772713c
+pkg-config-deps: 
+deps: base-4.14.3.0, stm-2.5.0.1, transformers-0.5.6.2, transformers-base-0.4.6-6da51771d90eb1bcec5abcb7cc7cbe92d83c85b679d229862f200b216175bb4b, transformers-compat-0.7.1-ca45d466718214d71f167e7f61b2c3944d59bf161473172b8c705c11dcdfbb58
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

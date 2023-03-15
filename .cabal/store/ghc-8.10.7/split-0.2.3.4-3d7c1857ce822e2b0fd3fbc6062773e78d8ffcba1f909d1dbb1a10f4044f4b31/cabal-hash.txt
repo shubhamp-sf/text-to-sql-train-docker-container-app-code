@@ -1,0 +1,10 @@
+pkgid: split-0.2.3.4
+component: ComponentLib
+src: 271fe5104c9f40034aa9a1aad6269bcecc9454bc5a57c247e69e17de996c1f2a
+pkg-config-deps: 
+deps: base-4.14.3.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

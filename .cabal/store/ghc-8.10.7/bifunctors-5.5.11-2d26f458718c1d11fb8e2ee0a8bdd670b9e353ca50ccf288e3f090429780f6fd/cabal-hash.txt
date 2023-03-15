@@ -1,0 +1,11 @@
+pkgid: bifunctors-5.5.11
+component: ComponentLib
+src: 2b6b9672faab649995cf4c885f353b6638b6daee467a9ace40a7fc773831091c
+pkg-config-deps: 
+deps: base-4.14.3.0, base-orphans-0.8.6-fbd06cc0f1e87751970cf003b25e5b10dcf4c218931f51ed808354965075c26c, comonad-5.0.8-2a7fa53397c686ac1860a5e382d726324dfd8538a2a95134e6167215836f5970, containers-0.6.5.1, tagged-0.8.6.1-2eea1558b46bda8b2e8ad3636e69c3043df0ac87651423c57c39822bf07aaea7, template-haskell-2.16.0.0, th-abstraction-0.4.3.0-b7f6ac0b3f48998b0e8738f043129295710e391dea80bb0064fc51a0f8c42b89, transformers-0.5.6.2
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +semigroups +tagged
+shared-lib: True
+stripped-exe: False
+debug-info: 0

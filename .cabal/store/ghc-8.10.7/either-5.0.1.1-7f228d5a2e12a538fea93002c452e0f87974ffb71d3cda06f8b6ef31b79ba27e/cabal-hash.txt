@@ -1,0 +1,10 @@
+pkgid: either-5.0.1.1
+component: ComponentLib
+src: 0243d51d6a02ecb541e4854a588a9b6219a4690ebcbdb79387dd14ad519cdf27
+pkg-config-deps: 
+deps: base-4.14.3.0, bifunctors-5.5.11-2d26f458718c1d11fb8e2ee0a8bdd670b9e353ca50ccf288e3f090429780f6fd, mtl-2.2.2, profunctors-5.6.2-c31b913d0476333a9fde0fab0c8e1b7c40f039de042028e77d7b4ef35efaaaa3, semigroupoids-5.3.7-a1a090ffa457f3fca01a381a444812a5cad28cb26b13386f2925a31cdedaf58f
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

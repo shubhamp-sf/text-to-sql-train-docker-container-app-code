@@ -1,0 +1,10 @@
+pkgid: unbounded-delays-0.1.1.1
+component: ComponentLib
+src: 59ad7e53bfe32ffbf0e703b31490d41d14c70e4745ed49e8adf592ed68dd6185
+pkg-config-deps: 
+deps: base-4.14.3.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

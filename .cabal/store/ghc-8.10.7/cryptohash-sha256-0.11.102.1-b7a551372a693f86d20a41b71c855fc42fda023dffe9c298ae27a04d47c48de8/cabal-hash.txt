@@ -1,0 +1,11 @@
+pkgid: cryptohash-sha256-0.11.102.1
+component: ComponentLib
+src: 73a7dc7163871a80837495039a099967b11f5c4fe70a118277842f7a713c6bf6
+pkg-config-deps: 
+deps: base-4.14.3.0, bytestring-0.10.12.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -exe +use-cbits
+shared-lib: True
+stripped-exe: False
+debug-info: 0

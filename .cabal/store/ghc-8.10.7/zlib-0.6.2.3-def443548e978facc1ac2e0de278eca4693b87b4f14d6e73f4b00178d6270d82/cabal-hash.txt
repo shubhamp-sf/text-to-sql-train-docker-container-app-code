@@ -1,0 +1,11 @@
+pkgid: zlib-0.6.2.3
+component: ComponentLib
+src: 807f6bddf9cb3c517ce5757d991dde3c7e319953a22c86ee03d74534bd5abc88
+pkg-config-deps: 
+deps: base-4.14.3.0, bytestring-0.10.12.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -bundled-c-zlib -non-blocking-ffi -pkg-config
+shared-lib: True
+stripped-exe: False
+debug-info: 0

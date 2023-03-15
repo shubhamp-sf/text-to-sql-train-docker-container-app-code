@@ -1,0 +1,10 @@
+pkgid: invariant-0.5.5
+component: ComponentLib
+src: 26150aff8031f62c4c935f7376ac61fb092ed7c4b6da26d13389eca664e2c7f5
+pkg-config-deps: 
+deps: StateVar-1.2.2-72ea4dd6ad21cffce72b1541c4ffcb909991ddf4cabce283446595712981c9d2, array-0.5.4.0, base-4.14.3.0, bifunctors-5.5.11-2d26f458718c1d11fb8e2ee0a8bdd670b9e353ca50ccf288e3f090429780f6fd, comonad-5.0.8-2a7fa53397c686ac1860a5e382d726324dfd8538a2a95134e6167215836f5970, containers-0.6.5.1, contravariant-1.5.5-db83032095a68ebc42d39746dd4e19e4f6e37c7873237a6584c0b6157e6b8461, ghc-prim-0.6.1, profunctors-5.6.2-c31b913d0476333a9fde0fab0c8e1b7c40f039de042028e77d7b4ef35efaaaa3, stm-2.5.0.1, tagged-0.8.6.1-2eea1558b46bda8b2e8ad3636e69c3043df0ac87651423c57c39822bf07aaea7, template-haskell-2.16.0.0, th-abstraction-0.4.3.0-b7f6ac0b3f48998b0e8738f043129295710e391dea80bb0064fc51a0f8c42b89, transformers-0.5.6.2, transformers-compat-0.7.1-ca45d466718214d71f167e7f61b2c3944d59bf161473172b8c705c11dcdfbb58, unordered-containers-0.2.17.0-c843f201d9e95322b0f5c56bbdc549d5f7ed994ddecf3b8bc60b6d00bcbc4387
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,11 @@
+pkgid: aeson-pretty-0.8.9
+component: ComponentLib
+src: 5dbc4f451dfa1e667b2c6ec5170714fed1905dc9cae6a1134b3376f355fa2a08
+pkg-config-deps: 
+deps: aeson-1.5.6.0-bf641485d3d43a798daeb787020e5e6ebd375ea770e0980a55bab5ad4b5e066d, base-4.14.3.0, base-compat-0.12.1-be8cdb908bae84190576797b552c332a060eb3efaf7de0377909a3db17be5836, bytestring-0.10.12.0, scientific-0.3.7.0-87746086abbcba0c91aa13f229e4f5fbf4b549e7e1d8cdb554550ae9662ba874, text-1.2.4.1, unordered-containers-0.2.17.0-c843f201d9e95322b0f5c56bbdc549d5f7ed994ddecf3b8bc60b6d00bcbc4387, vector-0.12.2.0-f6f8c8faee7399948b218d2d4767d919e8f14d952fc1505d0d6824b8766120bd
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -lib-only
+shared-lib: True
+stripped-exe: False
+debug-info: 0

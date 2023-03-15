@@ -1,0 +1,10 @@
+pkgid: indexed-traversable-instances-0.1.1
+component: ComponentLib
+src: 100ed1023b541328b04bcec0964b9f9d5fc93285fc23a2ac6873bf8597439a44
+pkg-config-deps: 
+deps: OneTuple-0.3.1-1a9e755796e71f8796e0e462212bbf02391464933d83c05f203ca10bccb43f33, base-4.14.3.0, indexed-traversable-0.1.2-84d6c7f80dd2b1558c6378cef15cefa0dd20fc82c17c29394f2b2e14d91088e3, tagged-0.8.6.1-2eea1558b46bda8b2e8ad3636e69c3043df0ac87651423c57c39822bf07aaea7, unordered-containers-0.2.17.0-c843f201d9e95322b0f5c56bbdc549d5f7ed994ddecf3b8bc60b6d00bcbc4387, vector-0.12.2.0-f6f8c8faee7399948b218d2d4767d919e8f14d952fc1505d0d6824b8766120bd
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,11 @@
+pkgid: distributive-0.6.2.1
+component: ComponentLib
+src: d7351392e078f58caa46630a4b9c643e1e2e9dddee45848c5c8358e7b1316b91
+pkg-config-deps: 
+deps: base-4.14.3.0, base-orphans-0.8.6-fbd06cc0f1e87751970cf003b25e5b10dcf4c218931f51ed808354965075c26c, tagged-0.8.6.1-2eea1558b46bda8b2e8ad3636e69c3043df0ac87651423c57c39822bf07aaea7, transformers-0.5.6.2
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +semigroups +tagged
+shared-lib: True
+stripped-exe: False
+debug-info: 0

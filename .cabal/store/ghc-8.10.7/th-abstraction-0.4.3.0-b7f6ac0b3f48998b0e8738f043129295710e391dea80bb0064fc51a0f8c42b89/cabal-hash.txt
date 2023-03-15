@@ -1,0 +1,10 @@
+pkgid: th-abstraction-0.4.3.0
+component: ComponentLib
+src: c8bb13e31d1d22a99168536a35c66e1091a6e4274b9841a023eac52c2bd3de06
+pkg-config-deps: 
+deps: base-4.14.3.0, containers-0.6.5.1, ghc-prim-0.6.1, template-haskell-2.16.0.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

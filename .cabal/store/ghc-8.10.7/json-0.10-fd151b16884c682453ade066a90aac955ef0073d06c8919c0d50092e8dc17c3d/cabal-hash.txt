@@ -1,0 +1,10 @@
+pkgid: json-0.10
+src: 0c046a3c03c9332816d3c9e50319b1d1eb3c2c1baba1123a7650d047b26856ba
+pkg-config-deps: 
+deps: array-0.5.4.0, base-4.14.3.0, bytestring-0.10.12.0, containers-0.6.5.1, mtl-2.2.2, parsec-3.1.14.0, pretty-1.1.3.6, syb-0.7.2.1-ce3bea365c2a85ffe3ee473abf1ca74296da9650beb43b0746bc3a6b0daab93b, text-1.2.4.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +generic -mapdict +parsec +pretty +split-base
+shared-lib: True
+stripped-exe: False
+debug-info: 0

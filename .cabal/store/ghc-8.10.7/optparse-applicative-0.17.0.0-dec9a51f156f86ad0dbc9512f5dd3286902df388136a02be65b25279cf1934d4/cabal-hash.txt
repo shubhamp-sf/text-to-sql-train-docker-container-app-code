@@ -1,0 +1,11 @@
+pkgid: optparse-applicative-0.17.0.0
+component: ComponentLib
+src: 825b2e4d3dafe0ba64a073366a88062b3712b81f851793d9ce2327bee70af724
+pkg-config-deps: 
+deps: ansi-wl-pprint-0.6.9-b982adf8f7bce8d2951ccc82cfd502f900bcb764e55f069cfe5916d2a6530270, base-4.14.3.0, process-1.6.13.2, transformers-0.5.6.2, transformers-compat-0.7.1-ca45d466718214d71f167e7f61b2c3944d59bf161473172b8c705c11dcdfbb58
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +process
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,11 @@
+pkgid: comonad-5.0.8
+component: ComponentLib
+src: ef6cdf2cc292cc43ee6aa96c581b235fdea8ab44a0bffb24dc79ae2b2ef33d13
+pkg-config-deps: 
+deps: base-4.14.3.0, containers-0.6.5.1, distributive-0.6.2.1-d1ba776802281b54a72e0c6d43389d1599e577e9cb3422483af6a691ec80da14, indexed-traversable-0.1.2-84d6c7f80dd2b1558c6378cef15cefa0dd20fc82c17c29394f2b2e14d91088e3, tagged-0.8.6.1-2eea1558b46bda8b2e8ad3636e69c3043df0ac87651423c57c39822bf07aaea7, transformers-0.5.6.2, transformers-compat-0.7.1-ca45d466718214d71f167e7f61b2c3944d59bf161473172b8c705c11dcdfbb58
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +containers +distributive +indexed-traversable
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,11 @@
+pkgid: blaze-textual-0.2.2.1
+component: ComponentLib
+src: 7a9199740189f435b762d98e65f5d7c0c7a1467e36c11210a8d65e76a5e5567e
+pkg-config-deps: 
+deps: base-4.14.3.0, blaze-builder-0.4.2.2-8313bd663b18b244f8e8472b4b81a6fbcea8058be29fc688dad3ae0552e4da6a, bytestring-0.10.12.0, ghc-prim-0.6.1, integer-gmp-1.0.3.0, old-locale-1.0.0.7-05dfb025d2190049a810e17758132b8448b6f674706b47d07a93a037ef3dafd5, text-1.2.4.1, time-1.9.3, vector-0.12.2.0-f6f8c8faee7399948b218d2d4767d919e8f14d952fc1505d0d6824b8766120bd
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -developer -integer-simple +native
+shared-lib: True
+stripped-exe: False
+debug-info: 0

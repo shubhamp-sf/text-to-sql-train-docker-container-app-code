@@ -1,0 +1,10 @@
+pkgid: regex-base-0.94.0.2
+component: ComponentLib
+src: 7b99408f580f5bb67a1c413e0bc735886608251331ad36322020f2169aea2ef1
+pkg-config-deps: 
+deps: array-0.5.4.0, base-4.14.3.0, bytestring-0.10.12.0, containers-0.6.5.1, text-1.2.4.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,10 @@
+pkgid: th-lift-0.8.2
+component: ComponentLib
+src: 3a5927037a10ae63e605c02228c4027c32b7bab1985ae7b5379e6363b3cd5ce4
+pkg-config-deps: 
+deps: base-4.14.3.0, ghc-prim-0.6.1, template-haskell-2.16.0.0, th-abstraction-0.4.3.0-b7f6ac0b3f48998b0e8738f043129295710e391dea80bb0064fc51a0f8c42b89
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

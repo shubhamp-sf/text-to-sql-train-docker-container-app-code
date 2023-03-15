@@ -1,0 +1,11 @@
+pkgid: text-show-3.9.6
+component: ComponentLib
+src: 3ce62803ca39e1425431eed86222249ee59bb7a8099c274df29c690db5e396f1
+pkg-config-deps: 
+deps: array-0.5.4.0, base-4.14.3.0, base-compat-batteries-0.12.1-ddc697957ee9625400cfbda6a2b00b490d3c696c7966fc34fcfa8119f1678a23, bifunctors-5.5.11-2d26f458718c1d11fb8e2ee0a8bdd670b9e353ca50ccf288e3f090429780f6fd, bytestring-0.10.12.0, bytestring-builder-0.10.8.2.0-350a3afd4e7be8736601ea4aa9cc82b50a1c0ecec0546fe51078450820f00ecc, containers-0.6.5.1, generic-deriving-1.14.1-fed2f38dbc518241e5b6efca62de57514bb6268120c2a3380fd20222337b9c3d, ghc-boot-th-8.10.7, ghc-prim-0.6.1, integer-gmp-1.0.3.0, template-haskell-2.16.0.0, text-1.2.4.1, th-abstraction-0.4.3.0-b7f6ac0b3f48998b0e8738f043129295710e391dea80bb0064fc51a0f8c42b89, th-lift-0.8.2-cc44625a004db75a889324709b3b2e924fff2b74797a58eb5bcc9625ba056484, transformers-0.5.6.2, transformers-compat-0.7.1-ca45d466718214d71f167e7f61b2c3944d59bf161473172b8c705c11dcdfbb58
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +base-4-9 +integer-gmp +new-functor-classes +template-haskell-2-11
+shared-lib: True
+stripped-exe: False
+debug-info: 0

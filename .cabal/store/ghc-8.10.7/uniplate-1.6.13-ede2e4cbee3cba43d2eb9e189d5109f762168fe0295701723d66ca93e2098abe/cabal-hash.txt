@@ -1,0 +1,10 @@
+pkgid: uniplate-1.6.13
+component: ComponentLib
+src: e777c94628445556a71f135a42cf72d2cfbaccba5849cc42fbfec8b2182e3ad2
+pkg-config-deps: 
+deps: base-4.14.3.0, containers-0.6.5.1, ghc-prim-0.6.1, hashable-1.3.5.0-38ac512a8fca7331205e4a466b18225a1140d2f7309381fd440283069fc8b154, syb-0.7.2.1-ce3bea365c2a85ffe3ee473abf1ca74296da9650beb43b0746bc3a6b0daab93b, unordered-containers-0.2.17.0-c843f201d9e95322b0f5c56bbdc549d5f7ed994ddecf3b8bc60b6d00bcbc4387
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

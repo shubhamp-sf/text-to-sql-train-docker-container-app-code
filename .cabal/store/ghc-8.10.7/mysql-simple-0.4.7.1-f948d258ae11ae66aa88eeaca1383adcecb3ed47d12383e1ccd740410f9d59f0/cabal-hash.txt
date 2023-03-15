@@ -1,0 +1,11 @@
+pkgid: mysql-simple-0.4.7.1
+component: ComponentLib
+src: 7b406b5087794fcf22e56daa0818245c2c49b7a0964166f6fc1c5e7aa3ad3704
+pkg-config-deps: 
+deps: attoparsec-0.14.4-b65cc1087ee756cc8b2eb86d11995e772fd72bb801be99ef223a00bfc5edb4c7, base-4.14.3.0, base16-bytestring-1.0.2.0-70aa3bac4d0b73533e1209155fdef8d1d52241185b590a3762ddab4fe7278b61, blaze-builder-0.4.2.2-8313bd663b18b244f8e8472b4b81a6fbcea8058be29fc688dad3ae0552e4da6a, blaze-textual-0.2.2.1-6ec35962167acef49d4a7e59d44bb516de4922755cfc5fce35cc7d451ab02357, bytestring-0.10.12.0, containers-0.6.5.1, mysql-0.2.1-144074b9f20424c01aee1b8df8921472c4be9cf72875ca3d304c7ebce1a4038a, old-locale-1.0.0.7-05dfb025d2190049a810e17758132b8448b6f674706b47d07a93a037ef3dafd5, pcre-light-0.4.1.0-9c08a1a7627c5dce0041260391ac3ca5957b67f9946a44ccf99c1ab27ad50912, text-1.2.4.1, time-1.9.3
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -developer
+shared-lib: True
+stripped-exe: False
+debug-info: 0

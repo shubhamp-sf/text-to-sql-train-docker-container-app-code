@@ -1,0 +1,11 @@
+pkgid: prettyprinter-1.6.2
+component: ComponentLib
+src: d193f1902630d0a652a7043aa37069224ea56a3ff0fa1b57f57ebf5ece777008
+pkg-config-deps: 
+deps: base-4.14.3.0, text-1.2.4.1
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -buildreadme
+shared-lib: True
+stripped-exe: False
+debug-info: 0

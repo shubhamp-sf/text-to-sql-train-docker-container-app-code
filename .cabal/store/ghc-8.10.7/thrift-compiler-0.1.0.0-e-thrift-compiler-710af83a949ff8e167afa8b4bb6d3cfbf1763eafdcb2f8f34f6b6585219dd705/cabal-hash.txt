@@ -1,0 +1,10 @@
+pkgid: thrift-compiler-0.1.0.0
+component: ComponentExe (UnqualComponentName "thrift-compiler")
+src: 03ed390b103b387ac61b49bb9a6afd81f3947dfd875df30780d7d28149cf25cc
+pkg-config-deps: 
+deps: base-4.14.3.0, optparse-applicative-0.17.0.0-dec9a51f156f86ad0dbc9512f5dd3286902df388136a02be65b25279cf1934d4, thrift-compiler-0.1.0.0-ffabedb5656455c5299fbfe2c4959023fba1d9075d5a34ff9daf9a62a3039f43
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

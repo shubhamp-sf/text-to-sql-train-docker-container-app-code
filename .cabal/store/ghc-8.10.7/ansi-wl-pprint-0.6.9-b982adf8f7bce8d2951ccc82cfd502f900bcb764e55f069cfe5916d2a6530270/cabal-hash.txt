@@ -1,0 +1,11 @@
+pkgid: ansi-wl-pprint-0.6.9
+component: ComponentLib
+src: a7b2e8e7cd3f02f2954e8b17dc60a0ccd889f49e2068ebb15abfa1d42f7a4eac
+pkg-config-deps: 
+deps: ansi-terminal-0.11.1-dead57c778d8662e5e08160652f469fe57c0ce8ed5cced6b482ad02331a664d0, base-4.14.3.0
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -example
+shared-lib: True
+stripped-exe: False
+debug-info: 0

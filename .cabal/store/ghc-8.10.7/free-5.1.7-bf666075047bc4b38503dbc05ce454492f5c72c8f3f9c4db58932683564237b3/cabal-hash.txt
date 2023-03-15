@@ -1,0 +1,10 @@
+pkgid: free-5.1.7
+component: ComponentLib
+src: b230d1e7e6bd0da6b8a1c83fe0c1609cb510bbec9fef7804b3604cd979402b88
+pkg-config-deps: 
+deps: base-4.14.3.0, comonad-5.0.8-2a7fa53397c686ac1860a5e382d726324dfd8538a2a95134e6167215836f5970, containers-0.6.5.1, distributive-0.6.2.1-d1ba776802281b54a72e0c6d43389d1599e577e9cb3422483af6a691ec80da14, exceptions-0.10.4, indexed-traversable-0.1.2-84d6c7f80dd2b1558c6378cef15cefa0dd20fc82c17c29394f2b2e14d91088e3, mtl-2.2.2, profunctors-5.6.2-c31b913d0476333a9fde0fab0c8e1b7c40f039de042028e77d7b4ef35efaaaa3, semigroupoids-5.3.7-a1a090ffa457f3fca01a381a444812a5cad28cb26b13386f2925a31cdedaf58f, template-haskell-2.16.0.0, th-abstraction-0.4.3.0-b7f6ac0b3f48998b0e8738f043129295710e391dea80bb0064fc51a0f8c42b89, transformers-0.5.6.2, transformers-base-0.4.6-6da51771d90eb1bcec5abcb7cc7cbe92d83c85b679d229862f200b216175bb4b
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

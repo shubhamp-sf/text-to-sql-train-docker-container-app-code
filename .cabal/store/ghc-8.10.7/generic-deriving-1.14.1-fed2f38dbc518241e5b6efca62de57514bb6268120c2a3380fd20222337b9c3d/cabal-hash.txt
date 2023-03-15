@@ -1,0 +1,11 @@
+pkgid: generic-deriving-1.14.1
+component: ComponentLib
+src: 4713ed35a855af4ebdcbb62da9584188df9d97b71f296b36c63669e8185417a7
+pkg-config-deps: 
+deps: base-4.14.3.0, containers-0.6.5.1, ghc-prim-0.6.1, template-haskell-2.16.0.0, th-abstraction-0.4.3.0-b7f6ac0b3f48998b0e8738f043129295710e391dea80bb0064fc51a0f8c42b89
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: +base-4-9
+shared-lib: True
+stripped-exe: False
+debug-info: 0

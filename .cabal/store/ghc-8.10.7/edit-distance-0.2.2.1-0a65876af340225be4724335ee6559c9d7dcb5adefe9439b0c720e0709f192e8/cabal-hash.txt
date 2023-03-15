@@ -1,0 +1,10 @@
+pkgid: edit-distance-0.2.2.1
+component: ComponentLib
+src: 3e8885ee2f56ad4da940f043ae8f981ee2fe336b5e8e4ba3f7436cff4f526c4a
+pkg-config-deps: 
+deps: array-0.5.4.0, base-4.14.3.0, containers-0.6.5.1, random-1.2.1-9241b7d4b7bedafddc08af1f75ab0cf10f6509e30a6ca9372df2a6af5d56c821
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

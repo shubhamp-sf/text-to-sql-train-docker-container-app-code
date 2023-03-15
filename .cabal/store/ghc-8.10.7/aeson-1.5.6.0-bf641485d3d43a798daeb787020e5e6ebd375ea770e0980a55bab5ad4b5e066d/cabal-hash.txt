@@ -1,0 +1,11 @@
+pkgid: aeson-1.5.6.0
+component: ComponentLib
+src: 0361c34be3d2ec945201f02501693436fbda10dcc549469481a084b2de22bfe8
+pkg-config-deps: 
+deps: attoparsec-0.14.4-b65cc1087ee756cc8b2eb86d11995e772fd72bb801be99ef223a00bfc5edb4c7, base-4.14.3.0, base-compat-batteries-0.12.1-ddc697957ee9625400cfbda6a2b00b490d3c696c7966fc34fcfa8119f1678a23, bytestring-0.10.12.0, containers-0.6.5.1, data-fix-0.3.2-cdb6ea4c5e6424a3f45ce829f0a6b6df619fc389feb93b70bf134e1c47ae3d33, deepseq-1.4.4.0, dlist-1.0-b0d9a07669322bdf764a280f6d6c62da10cdcb19e05fbf433a3d0dadaa0f8f2c, ghc-prim-0.6.1, hashable-1.3.5.0-38ac512a8fca7331205e4a466b18225a1140d2f7309381fd440283069fc8b154, primitive-0.7.3.0-ca993c0684c5b48074dd2590184c6f06667d73290dfde50301aed62da070af56, scientific-0.3.7.0-87746086abbcba0c91aa13f229e4f5fbf4b549e7e1d8cdb554550ae9662ba874, strict-0.4.0.1-e03edc99ad79f28b96098b2176ef73a633776e405630ff637a212baa04deb2fb, tagged-0.8.6.1-2eea1558b46bda8b2e8ad3636e69c3043df0ac87651423c57c39822bf07aaea7, template-haskell-2.16.0.0, text-1.2.4.1, th-abstraction-0.4.3.0-b7f6ac0b3f48998b0e8738f043129295710e391dea80bb0064fc51a0f8c42b89, these-1.1.1.1-01fea4a79f45c61fecb476e83c89be144b2d3fd5307b851a816c11350e86d357, time-1.9.3, time-compat-1.9.6.1-108aff99584134cf34b21ebffbe42154f1e85f13e1859566d78001c7b5857950, unordered-containers-0.2.17.0-c843f201d9e95322b0f5c56bbdc549d5f7ed994ddecf3b8bc60b6d00bcbc4387, uuid-types-1.0.5-32e4fbe68365a954c0f7101c95a1f13c6fa41bb026532bf6ee2ab8c00c5add19, vector-0.12.2.0-f6f8c8faee7399948b218d2d4767d919e8f14d952fc1505d0d6824b8766120bd
+compilerid: ghc-8.10.7
+platform: x86_64-linux
+flags: -bytestring-builder -cffi -developer -fast
+shared-lib: True
+stripped-exe: False
+debug-info: 0
